@@ -1,0 +1,84 @@
+body { background-color: #B1D0E0;
+margin: 0;
+}
+h1 {
+  margin-top: 0;
+  color :#CEE5D0;
+}
+div {background-color:#406882 ;
+
+}
+a {
+  position: absolute;
+  bottom: 10px ;
+
+}
+/*************************classes*********************/
+
+.Mid-c{
+  height: 200px;
+  width: 200px;
+  background-color: gold;
+}
+.Bot-c{
+  height: 200px;
+  width: 200px;
+  background-color: silver;
+}
+.itc {
+    color: #ffffff;
+    text-decoration: none;
+    background-color: #30475E;
+    border-left-width: 200px;
+   padding-right: 100px;
+   padding-left: 100px;
+   left: 0px;
+   right: 0px;
+   padding-bottom: 20px;
+   bottom: 0px;
+   top: 150px;
+   font-size: 30px;
+
+
+}
+.commom { height:200px;
+  width: 300px ;
+  background-image: url("https://www.aleqt.com/sites/default/files/styles/scale_660/public/a/192236_17016.jpg?itok=MxgroSDB");
+  position: relative;
+  left: 100px;
+}
+.commom1 { height:200px;
+  width: 300px ;
+  background-image: url("https://pbs.twimg.com/media/FH7lcz3WQAI_NWf?format=jpg&name=360x360");
+
+  position: relative;
+  left: 450px;
+bottom: 219px; }
+
+.commom2 { height:200px;
+  width: 300px ;
+  background-image: url("https://pbs.twimg.com/media/FH7mbQaWQAISS42?format=jpg&name=360x360");
+  position: relative;
+  left: 450px;
+ bottom: 190px;
+}
+ .commom3 { height:200px;
+   width: 300px ;
+   background-image: url("https://pbs.twimg.com/media/FH7pKiYXIAA3V6D?format=jpg&name=360x360");
+   position: relative;
+   left: 100px;
+  bottom: 408px; }
+
+  .commom4 { height:200px;
+    width: 300px ;
+    background-image: url("https://pbs.twimg.com/media/FH7q44oWQAYQp5R?format=jpg&name=360x360");
+    position: relative;
+    left: 100px;
+   bottom: 390px; }
+
+   .commom5 { height:200px;
+     width: 300px ;
+     background-image: url("https://pbs.twimg.com/media/FH7sBNOWQAwoSDL?format=jpg&name=360x360");
+     position: relative;
+     left: 450px;
+    bottom: 608px; }

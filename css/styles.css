@@ -7,8 +7,6 @@ div {background-color:#406882 ;
 
 }
 a {
-  position: absolute;
-  bottom: 10px ;
 
 }
 /*************************classes*********************/
@@ -39,7 +37,27 @@ a {
    top: 500px;
    font-size: 60px;
 
+     position: absolute;
+     bottom: 0px ;
 
+
+
+}
+.itc2 {
+    color: #ffffff;
+    text-decoration: none;
+    background-color: #30475E;
+    position: fixed;
+   font-size: 60px;
+   bottom: 0px;
+
+     position: absolute ;
+
+
+
+}
+.head {
+        padding-bottom: 10px;
 }
 .commom { height:600px;
   width: 900px ;
@@ -85,3 +103,23 @@ a {
  .black {
    color: white ;
  }
+ .cel1{
+font-size: 20px;
+
+ }
+
+.s1t {
+
+    position: relative;
+    left: 20px;
+    height: 387px;
+    width:305px;
+}
+.imgd{
+  width:387;
+  height: 305;
+}
+.h6{
+  top : 4500px;
+  position: absolute;
+}

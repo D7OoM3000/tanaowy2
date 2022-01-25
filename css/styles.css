@@ -1,125 +1,163 @@
-body { background-color: #B1D0E0;
-margin: 0;
+body
+{ 
+  background-color: #B1D0E0;
+  margin: 0;
+  text-align: center;
 }
 
 
-div {background-color:#406882 ;
+div 
+{
+  
+}
+
+a 
+{
 
 }
-a {
 
-}
 /*************************classes*********************/
-.a {
+.a 
+{
   margin-top: 0;
-  color :#CEE5D0; }
-.Mid-c{
+  color :#CEE5D0; 
+}
+
+.Mid-c
+{
   height: 200px;
   width: 200px;
   background-color: gold;
 }
-.Bot-c{
+
+.Bot-c
+{
   height: 200px;
   width: 200px;
   background-color: silver;
 }
-.itc {
-    color: #ffffff;
-    text-decoration: none;
-    background-color: #30475E;
-    border-left-width: 200px;
-   padding-right: 100px;
-   padding-left: 100px;
-   left: 0px;
-   right: 0px;
-   padding-bottom: 20px;
-   bottom: 0px;
-   top: 500px;
-   font-size: 60px;
 
-     position: absolute;
-     bottom: 0px ;
-
+.itc 
+{
+  color: #ffffff;
+  text-decoration: none;
+  background-color: #30475E;
+  border-left-width: 200px;
+  padding-right: 100px;
+  padding-left: 100px;
+  left: 0px;
+  right: 0px;
+  padding-bottom: 20px;
+  padding-top: 5px;
+  bottom: 0px;
+  top: 500px;
+  font-size: 60px;
+  position: absolute;
+  bottom: 0px ;
+  align-content: center;
+}
+.itc2
+{
+  color: #ffffff;
+  text-decoration: none;
+  background-color: #30475E;
+  font-size: 100%;
+  position: fixed;
+    bottom: 0;
+    left: 0;
 
 
 }
-.itc2 {
-    color: #ffffff;
-    text-decoration: none;
-    background-color: #30475E;
-    position: fixed;
-   font-size: 60px;
-   bottom: 0px;
-
-     position: absolute ;
-
-
-
+.head 
+{ 
+  padding-bottom: 10px;
+  background-color:#406882;
 }
-.head {
-        padding-bottom: 10px;
-}
-.commom { height:600px;
+
+.commom 
+{ 
+  height:600px;
   width: 900px ;
   background-image: url("https://pbs.twimg.com/media/FH7zYkhWQAYo0M6?format=jpg&name=900x900");
   position: relative;
-  left: 50px;
+  margin-top: 2%;
+  margin-bottom: 2%;
 }
-.commom1 {  height:600px;
+
+.commom1 
+{  
+  height:600px;
   width: 900px ;
   background-image: url("https://pbs.twimg.com/media/FH7zYkUWQAYCM-P?format=jpg&name=900x900");
-
   position: relative;
-  left: 50px;
+  margin-top: 2%;
+  margin-bottom: 2%;
 }
 
-.commom2 {  height:600px;
+.commom2 
+{  
+  height:600px;
   width: 900px ;
   background-image: url("https://pbs.twimg.com/media/FH7zWffWQBsPq1B?format=jpg&name=900x900");
   position: relative;
-  left: 50px;
+  margin-top: 2%;
+  margin-bottom: 2%;
 }
- .commom3 {  height:600px;
-   width: 900px ;
-   background-image: url("https://pbs.twimg.com/media/FH7zWffWUAMdmGJ?format=jpg&name=900x900");
-   position: relative;
-   left: 50px;
- }
-
-  .commom4 {  height:600px;
-    width: 900px ;
-    background-image: url("https://pbs.twimg.com/media/FH7zWfeWQAoOEy9?format=jpg&name=900x900");
-    position: relative;
-    left: 50px;
- }
-
-   .commom5 { height:600px;
-     width: 900px ;
-     background-image: url("https://pbs.twimg.com/media/FH7zWfgXwAIFgA5?format=jpg&name=900x900");
-     position: relative;
-     left: 50px;
- }
-
- .black {
-   color: white ;
- }
- .cel1{
-font-size: 20px;
-
- }
-
-.s1t {
-
-    position: relative;
-    left: 20px;
-    height: 387px;
-    width:305px;
+.commom3 
+{  
+  height:600px;
+  width: 900px ;
+  background-image: url("https://pbs.twimg.com/media/FH7zWffWUAMdmGJ?format=jpg&name=900x900");
+  position: relative;
+  margin-top: 2%;
+  margin-bottom: 2%;
 }
-.imgd{
+
+.commom4 
+{  
+  height:600px;
+  width: 900px ;
+  background-image: url("https://pbs.twimg.com/media/FH7zWfeWQAoOEy9?format=jpg&name=900x900");
+  position: relative;
+  margin-top: 2%;
+  margin-bottom: 2%;
+}
+
+.commom5 
+{ 
+  height:600px;
+  width: 900px ;
+  background-image: url("https://pbs.twimg.com/media/FH7zWfgXwAIFgA5?format=jpg&name=900x900");
+  position: relative;
+  margin-top: 2%;
+  margin-bottom: 2%;
+}
+
+.black 
+{
+  color: white ;
+}
+
+.cel1
+{
+  font-size: 20px;
+}
+
+.s1t 
+{
+  position: relative;
+  left: 20px;
+
+}
+
+.imgd
+{
   width:387;
   height: 305;
 }
-.h6{
+
+.h6
+{
   top : 4500px;
   position: absolute;
 }
